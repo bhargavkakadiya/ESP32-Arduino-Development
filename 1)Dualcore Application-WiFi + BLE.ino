@@ -1,6 +1,6 @@
 /*********************************************************************
  *  Sending data to web database using GET request on one core while                                            
- *  broadcasting a string message via BLE on other
+ *  broadcasting a string message using BLE on other
  *                                                                   
  *  By Bhargav kakadiya                                                   
  *********************************************************************/
